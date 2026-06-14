@@ -1,2 +1,28 @@
-# e57f229a-venture-capital-pe-review-mo
-Tired of manually tracking reviews and responses for your venture capital firm, wasting hours that could be spent on high-leverage deals? The Venture Capital &amp; PE Review Monitoring and Response Automation N8N Workflow solves this pain point by streamlining your workflow.  This workflow automation tool helps you stay on top of reviews and responses,
+# Venture Capital & PE Review Monitoring and Response Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm5kDeTt3o8f44dI0cZd1S)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm5kDeTt3o8f44dI0cZd1S)
+
